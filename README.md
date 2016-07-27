@@ -1,3 +1,2 @@
 # CLA
 
-Dummy text
