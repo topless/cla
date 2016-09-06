@@ -1,3 +1,3 @@
 # CLA
 
-Dummy text. 
+Submit a PR to test the CLA process.
